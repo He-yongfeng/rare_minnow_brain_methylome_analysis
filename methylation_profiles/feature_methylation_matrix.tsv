@@ -1,0 +1,55 @@
+Sample_ID	Feature	Age_group	mCG%	mCHG%	mCHH%
+A1	CDS	8 months	71.774	0.909	0.812
+A2	CDS	8 months	71.848	0.891	0.782
+A3	CDS	8 months	71.098	1.24	0.987
+B1	CDS	44 months	73.626	1.307	1.047
+B2	CDS	44 months	74.044	1.243	0.986
+B3	CDS	44 months	74.458	1.243	0.974
+C1	CDS	74 months	74.391	1.176	1.06
+C2	CDS	74 months	74.204	0.96	0.907
+C3	CDS	74 months	73.412	1.192	1.052
+A1	Down2k	8 months	75.538	0.941	0.913
+A2	Down2k	8 months	75.88	0.908	0.865
+A3	Down2k	8 months	75.125	1.2	1.059
+B1	Down2k	44 months	77.224	1.269	1.132
+B2	Down2k	44 months	77.736	1.193	1.056
+B3	Down2k	44 months	77.857	1.185	1.048
+C1	Down2k	74 months	77.567	1.184	1.151
+C2	Down2k	74 months	77.256	0.99	0.995
+C3	Down2k	74 months	76.466	1.189	1.134
+A1	Up2k	8 months	55.471	0.919	0.897
+A2	Up2k	8 months	56.683	0.891	0.849
+A3	Up2k	8 months	55.884	1.174	1.042
+B1	Up2k	44 months	57.629	1.244	1.114
+B2	Up2k	44 months	58.321	1.169	1.044
+B3	Up2k	44 months	58.746	1.163	1.031
+C1	Up2k	74 months	58.359	1.16	1.128
+C2	Up2k	74 months	57.849	0.967	0.981
+C3	Up2k	74 months	57.608	1.163	1.117
+A1	mRNA	8 months	80.089	0.991	0.981
+A2	mRNA	8 months	79.893	0.951	0.936
+A3	mRNA	8 months	79.405	1.251	1.136
+B1	mRNA	44 months	81.627	1.327	1.217
+B2	mRNA	44 months	82.016	1.251	1.142
+B3	mRNA	44 months	82.074	1.24	1.13
+C1	mRNA	74 months	81.96	1.244	1.233
+C2	mRNA	74 months	81.685	1.05	1.076
+C3	mRNA	74 months	80.963	1.242	1.214
+A1	Repeat	8 months	86.523	1.055	0.979
+A2	Repeat	8 months	86.603	1.012	0.935
+A3	Repeat	8 months	86.116	1.355	1.138
+B1	Repeat	44 months	88.069	1.429	1.21
+B2	Repeat	44 months	88.424	1.349	1.139
+B3	Repeat	44 months	88.332	1.335	1.128
+C1	Repeat	74 months	87.9	1.308	1.221
+C2	Repeat	74 months	87.553	1.093	1.063
+C3	Repeat	74 months	87.038	1.313	1.205
+A1	CpG island	8 months	79.497	1.412	1.073
+A2	CpG island	8 months	79.517	1.363	1.012
+A3	CpG island	8 months	79.278	2.023	1.242
+B1	CpG island	44 months	80.973	2.122	1.305
+B2	CpG island	44 months	81.639	1.98	1.218
+B3	CpG island	44 months	81.752	1.984	1.207
+C1	CpG island	74 months	81.62	1.729	1.3
+C2	CpG island	74 months	81.476	1.358	1.137
+C3	CpG island	74 months	81.32	1.769	1.284
