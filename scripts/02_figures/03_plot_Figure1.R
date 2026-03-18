@@ -17,7 +17,7 @@ dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 meta_file <- file.path(data_dir, "sample_metadata.tsv")
 
-# PCA结果文件
+# PCA陆谩鹿没脦脛录镁
 CG_pca  <- file.path(input_dir, "PCA_coordinates_PCA_methylation_matrix_CG.tsv")
 CHG_pca <- file.path(input_dir, "PCA_coordinates_PCA_methylation_matrix_CHG.tsv")
 CHH_pca <- file.path(input_dir, "PCA_coordinates_PCA_methylation_matrix_CHH.tsv")
