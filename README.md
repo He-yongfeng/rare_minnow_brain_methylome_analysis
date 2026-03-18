@@ -30,9 +30,9 @@ The dataset includes:
 
 ## Repository structure
 
-data/       # Input data (download from figshare)
-scripts/    # R scripts for analysis and plotting
-figures/    # Output figures
+- data/       # Input data (download from figshare)
+- scripts/    # R scripts for analysis and plotting
+- figures/    # Output figures
 
 ---
 
@@ -60,12 +60,12 @@ Rscript run_all.R
 
 ## Stepwise execution
 Alternatively, scripts can be executed step by step:
-Rscript scripts/01_processing/DMR_processing.R
-Rscript scripts/02_analysis/PCA_analysis.R
-Rscript scripts/03_figures/plot_Figure1.R
-Rscript scripts/03_figures/plot_Figure2.R
-Rscript scripts/03_figures/plot_Figure3.R
-Rscript scripts/03_figures/plot_Figure4.R
+- Rscript scripts/01_processing/DMR_processing.R
+- Rscript scripts/02_analysis/PCA_analysis.R
+- Rscript scripts/03_figures/plot_Figure1.R
+- Rscript scripts/03_figures/plot_Figure2.R
+- Rscript scripts/03_figures/plot_Figure3.R
+- Rscript scripts/03_figures/plot_Figure4.R
 
 ## Output
 
