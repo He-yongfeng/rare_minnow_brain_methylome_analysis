@@ -1,9 +1,11 @@
 # ==========================
 # 1. Input
 # ==========================
-data_dir <- "data"
+file_chromosome <- file.path(
+  data_processed_dir,
+  "chromosome_methylation_summary.tsv"
+)
 
-file_chromosome <- file.path(data_dir, "chromosome_methylation_summary.tsv")
 df <- read_tsv(file_chromosome)
 
 # rename
